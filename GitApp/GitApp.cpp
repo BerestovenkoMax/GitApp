@@ -34,6 +34,11 @@ int main()
 	// Some Changes 3
 	// Some Changes 4
 	// Some Changes 5
+	setlocale(LC_ALL, "rus");
+	double x = 10.0;
+	double y = 5.0;
+
+	cout << "Сложение: " << add(x, y) << endl;
 }
 
 
