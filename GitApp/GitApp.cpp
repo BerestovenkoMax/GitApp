@@ -40,7 +40,10 @@ int main()
 
 	cout << "Сложение: " << add(x, y) << endl;
 	cout << "Вычитание: " << subtract(x, y) << endl;
-	cout << "Множення: " << multiply(x, y) << endl;
+	cout << "Деление: " << divide(x, y) << endl;
+	cout << "Умножение: " << multiply(x, y) << endl;
+	
+
 }
 
 
