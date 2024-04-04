@@ -21,6 +21,10 @@ double divide(double a, double b)
 		return 0; 
 	}
 }
+double multiply(double a, double b) 
+{
+	return a * b;
+}
 
 
 int main()
