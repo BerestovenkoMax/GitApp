@@ -39,6 +39,7 @@ int main()
 	double y = 5.0;
 
 	cout << "Сложение: " << add(x, y) << endl;
+	cout << "Вычитание: " << subtract(x, y) << endl;
 }
 
 
